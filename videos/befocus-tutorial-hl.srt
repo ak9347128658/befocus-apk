@@ -1,0 +1,296 @@
+1
+00:00:00,350 --> 00:00:07,330
+Miliye BeFocus se — ek free app jo aapko apne phone aur apne time par wapas control deta hai.
+
+2
+00:00:07,680 --> 00:00:14,545
+Hum mein se zyada log roz ghanton reels, shorts aur distracting apps mein waste kar dete hain.
+
+3
+00:00:14,545 --> 00:00:17,322
+Adult content bas ek tap door hota hai.
+
+4
+00:00:17,322 --> 00:00:25,200
+Aur zyadatar blockers weak moment mein easily off ho jaate hain, isliye woh actually help nahi karte.
+
+5
+00:00:25,550 --> 00:00:28,175
+BeFocus ye problem solve karta hai.
+
+6
+00:00:28,175 --> 00:00:45,036
+Ye aapke chune hue apps ko schedule par ya daily limit ke baad block karta hai, reels aur shorts block karta hai jabki baaki app chalta rehta hai, adult websites aur keywords filter karta hai, aur khud ko uninstall hone se bachata hai.
+
+7
+00:00:45,036 --> 00:00:51,710
+Ise off karne mein 48 ghante lagte hain, ya kisi trusted dost ka code chahiye.
+
+8
+00:00:52,060 --> 00:00:54,041
+Chaliye install karte hain.
+
+9
+00:00:54,041 --> 00:01:00,704
+BeFocus abhi Play Store par nahi hai, isliye hum APK GitHub se download karenge.
+
+10
+00:01:00,704 --> 00:01:09,618
+Chrome kholiye, Google par “BeFocus APK GitHub” search kijiye, aur befocus-apk wale result par tap kijiye.
+
+11
+00:01:09,618 --> 00:01:14,580
+Aap screen par dikhaya gaya link bhi type kar sakte hain.
+
+12
+00:01:14,930 --> 00:01:21,139
+GitHub page par BeFocus APK file par tap kijiye, phir Download par tap kijiye.
+
+13
+00:01:21,139 --> 00:01:30,107
+Chrome warning de sakta hai ki ye file harmful ho sakti hai — ye Play Store ke bahar ki har APK ke liye aata hai.
+
+14
+00:01:30,107 --> 00:01:33,330
+“Download anyway” par tap kijiye.
+
+15
+00:01:33,680 --> 00:01:36,158
+Download hui file open kijiye.
+
+16
+00:01:36,158 --> 00:01:41,199
+Android, Chrome se apps install karne ki permission maangega.
+
+17
+00:01:41,199 --> 00:01:47,730
+Settings par tap kijiye, “Allow from this source” on kijiye, aur back aaiye.
+
+18
+00:01:48,080 --> 00:01:49,803
+Install par tap kijiye.
+
+19
+00:01:49,803 --> 00:01:57,025
+BeFocus naya hai aur Play Store se nahi hai, isliye Google Play Protect warning dikha sakta hai.
+
+20
+00:01:57,025 --> 00:02:01,374
+“More details” par tap kijiye, phir “Install anyway” par.
+
+21
+00:02:01,374 --> 00:02:12,920
+Play Protect aise naye blocker apps par aksar warning deta hai, kyunki woh apna kaam karne ke liye accessibility aur device admin use karte hain.
+
+22
+00:02:13,270 --> 00:02:23,448
+Agar “Install anyway” nahi dikhta, to Play Store kholiye, apni profile picture par tap kijiye, phir Play Protect, phir settings icon par.
+
+23
+00:02:23,448 --> 00:02:33,540
+“Scan apps with Play Protect” off kijiye, BeFocus install kijiye, aur phir phone ki safety ke liye scanning wapas on kar dijiye.
+
+24
+00:02:33,890 --> 00:02:46,170
+Android 13 aur usse naye phones par, Play Store ke bahar se install kiye gaye apps mein restricted settings hoti hain, isliye Accessibility switch grey dikh sakta hai.
+
+25
+00:02:46,170 --> 00:02:50,826
+Ise fix karne ke liye Settings kholiye, phir Apps, phir BeFocus.
+
+26
+00:02:50,826 --> 00:03:01,890
+Upar right side mein teen dots wale menu par tap kijiye, “Allow restricted settings” chuniye, aur apne PIN ya fingerprint se confirm kijiye.
+
+27
+00:03:02,240 --> 00:03:06,346
+Ab BeFocus kholiye aur “Get started” par tap kijiye.
+
+28
+00:03:06,346 --> 00:03:10,976
+Permissions screen batati hai ki BeFocus ko kya chahiye.
+
+29
+00:03:10,976 --> 00:03:15,694
+Accessibility aur Display over other apps required hain.
+
+30
+00:03:15,694 --> 00:03:23,382
+Device admin, unrestricted battery aur notifications optional hain, lekin recommended hain.
+
+31
+00:03:23,382 --> 00:03:26,640
+Chaliye ek-ek karke sab on karte hain.
+
+32
+00:03:26,990 --> 00:03:29,169
+Sabse pehle Accessibility.
+
+33
+00:03:29,169 --> 00:03:38,977
+Isse BeFocus dekh pata hai ki screen par kaun sa app, reel ya website hai, taaki woh aapke chune hue ko block kar sake.
+
+34
+00:03:38,977 --> 00:03:42,518
+Notice padhiye aur “I agree” par tap kijiye.
+
+35
+00:03:42,518 --> 00:03:52,325
+Accessibility settings mein Downloaded apps kholiye, BeFocus par tap kijiye, use on kijiye, aur Allow par tap kijiye.
+
+36
+00:03:52,325 --> 00:03:59,050
+Sab kuch aapke phone par hi rehta hai — kuch bhi collect ya share nahi hota.
+
+37
+00:03:59,400 --> 00:04:02,065
+Next, Display over other apps.
+
+38
+00:04:02,065 --> 00:04:07,662
+Isse BeFocus blocked app ke upar apni focus screen dikha pata hai.
+
+39
+00:04:07,662 --> 00:04:15,320
+Allow par tap kijiye, BeFocus dhoondhiye, aur “Allow display over other apps” on kijiye.
+
+40
+00:04:15,670 --> 00:04:20,587
+Device admin sirf uninstall protection ke liye use hota hai.
+
+41
+00:04:20,587 --> 00:04:25,013
+Ye weak moment mein BeFocus ko remove hone se rokta hai.
+
+42
+00:04:25,013 --> 00:04:30,480
+Allow par tap kijiye, phir “Activate this device admin app” par.
+
+43
+00:04:30,830 --> 00:04:31,752
+Ab battery.
+
+44
+00:04:31,752 --> 00:04:39,544
+Bahut se phones battery bachane ke liye background apps band kar dete hain, jisse blocker ruk jayega.
+
+45
+00:04:39,544 --> 00:04:47,336
+Allow par tap kijiye, aur jab Android pooche ki BeFocus ko background mein chalne dein, to Allow chuniye.
+
+46
+00:04:47,336 --> 00:04:54,840
+Kuch phones par App info, phir App battery usage kholkar “Unrestricted” bhi select kijiye.
+
+47
+00:04:55,190 --> 00:05:00,606
+Last mein, daily focus summary ke liye notifications allow kijiye.
+
+48
+00:05:00,606 --> 00:05:03,959
+Ab paanchon permissions “On” dikh rahi hain.
+
+49
+00:05:03,959 --> 00:05:06,400
+Continue par tap kijiye.
+
+50
+00:05:06,750 --> 00:05:09,888
+Ab ek accountability partner add kijiye.
+
+51
+00:05:09,888 --> 00:05:21,154
+Aapka dost is QR code ko Google Authenticator jaise kisi authenticator app se scan karta hai, aur confirm karne ke liye 6 digit ka code batata hai.
+
+52
+00:05:21,154 --> 00:05:28,235
+Baad mein agar sach mein protection off karni ho, to unka current code turant unlock kar deta hai.
+
+53
+00:05:28,235 --> 00:05:33,130
+Partner ke bina, aapko bas 48 ghante wait karna hoga.
+
+54
+00:05:33,480 --> 00:05:35,437
+Ye aapki home screen hai.
+
+55
+00:05:35,437 --> 00:05:51,050
+Shuru mein sab kuch off rehta hai, isliye Shields kholiye aur jo chahiye woh on kijiye: Reels aur Shorts, short-video apps, adult content filter, aapki apni block list, aur uninstall protection.
+
+56
+00:05:51,400 --> 00:06:00,297
+Kisi app ko block karne ke liye Apps mein jaaiye, Add par tap kijiye, aur koi app chuniye, jaise Instagram.
+
+57
+00:06:00,297 --> 00:06:06,969
+Din aur from-to time chuniye, jaise weekdays mein subah 9 se shaam 5 baje tak.
+
+58
+00:06:06,969 --> 00:06:11,232
+Ya daily limit chuniye, jaise din mein 30 minute.
+
+59
+00:06:11,232 --> 00:06:13,450
+Save par tap kijiye.
+
+60
+00:06:13,800 --> 00:06:23,199
+Instagram, YouTube, Facebook aur Snapchat mein Reels aur Shorts block hote hain, jabki messages aur baaki app chalta rehta hai.
+
+61
+00:06:23,199 --> 00:06:32,841
+Adult filter 50,000 se zyada websites aur keywords cover karta hai, har browser mein aur kisi bhi app ke search box mein.
+
+62
+00:06:32,841 --> 00:06:37,280
+Aap apni websites aur keywords bhi add kar sakte hain.
+
+63
+00:06:37,630 --> 00:06:43,864
+Jab kuch block hota hai, to aapko 60 second ke liye ye focus screen dikhti hai.
+
+64
+00:06:43,864 --> 00:06:50,355
+Ise skip nahi kar sakte — Home aur Recents dabane par bhi ye turant wapas aa jaati hai.
+
+65
+00:06:50,355 --> 00:06:57,700
+“Why was this blocked?” card batata hai ki block kis wajah se hua, aur kis setting ne kiya.
+
+66
+00:06:57,700 --> 00:07:01,201
+Is screen ka ad BeFocus ko free rakhta hai.
+
+67
+00:07:01,201 --> 00:07:05,680
+Phone calls aur emergency calls hamesha chalte hain.
+
+68
+00:07:06,030 --> 00:07:13,610
+Uninstall protection on hone par, BeFocus ki app info aur uninstall screens bhi block ho jaati hain.
+
+69
+00:07:13,610 --> 00:07:18,558
+Protection change ya remove karne ke liye Lock and unlock kholiye.
+
+70
+00:07:18,558 --> 00:07:24,861
+Ya to apne partner ka current code daaliye, ya 48 ghante ka wait start kijiye.
+
+71
+00:07:24,861 --> 00:07:29,720
+Zyadatar cravings usse bahut pehle hi khatam ho jaati hain.
+
+72
+00:07:30,070 --> 00:07:33,630
+BeFocus poori tarah aapke phone par kaam karta hai.
+
+73
+00:07:33,630 --> 00:07:39,509
+Aap jo dekhte ya type karte hain, use ye na collect karta hai na share karta hai.
+
+74
+00:07:39,509 --> 00:07:45,690
+Aaj hi screen par diye link se download kijiye, aur apna time wapas lijiye.
+

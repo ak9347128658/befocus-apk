@@ -25,7 +25,7 @@ Watch the full guide: what BeFocus solves, how to download and install it, every
 
 <table><tr>
 <td align="center" width="50%"><a href="https://youtu.be/QJKH0UrvF4Y"><img src="https://img.youtube.com/vi/QJKH0UrvF4Y/maxresdefault.jpg" alt="BeFocus tutorial in English on YouTube"></a><br><b><a href="https://youtu.be/QJKH0UrvF4Y">▶ Watch on YouTube (English)</a></b> · 6½ min · <a href="videos/befocus-tutorial-en.mp4">MP4</a></td>
-<td align="center" width="50%"><a href="videos/befocus-tutorial-hi.mp4"><img src="videos/thumb-hi.png" alt="BeFocus tutorial in Hindi"></a><br><b><a href="videos/befocus-tutorial-hi.mp4">▶ हिंदी में देखें</a></b> · 8 min · <a href="videos/befocus-tutorial-hi.srt">subtitles</a></td>
+<td align="center" width="50%"><a href="videos/befocus-tutorial-hl.mp4"><img src="videos/thumb-hl.png" alt="BeFocus tutorial in Hinglish"></a><br><b><a href="videos/befocus-tutorial-hl.mp4">▶ Hinglish mein dekhiye</a></b> · 7¾ min · <a href="videos/befocus-tutorial-hl.srt">subtitles</a></td>
 </tr></table>
 
 ---
