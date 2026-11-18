@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/ak9347128658/befocus-apk/raw/main/BeFocus.apk",
   "notes": "Automatic updates: BeFocus now tells you when a new version is out and installs it with one tap."
 }
