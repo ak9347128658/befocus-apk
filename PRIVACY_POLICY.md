@@ -80,4 +80,4 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## 9. Contact
 
-If you have questions about this privacy policy, contact us at: **YOUR_CONTACT_EMAIL**
+If you have questions about this privacy policy, contact us at: **ak9346052261@gmail.com**
